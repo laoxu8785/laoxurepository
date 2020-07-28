@@ -1,0 +1,6 @@
+#git你不要帮我去管理.class文件
+
+# Compiled class file
+*.class
+
+
